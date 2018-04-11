@@ -38,21 +38,3 @@ button,  .buttonblue {
     position: relative;
     top: 1px;
     margin: 0 2px; }
-
-
-   /* #media-grid {
-        
-            @include grid-media-columns(2);
-        
-            & > div {
-                margin-bottom: 20px;
-                height: 80px;
-            }
-            & > div:nth-child(2n) {
-              height: 200px;
-            }
-            & > div:nth-child(5n) {
-              height: 120px;
-            }
-        } */
-        

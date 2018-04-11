@@ -751,7 +751,6 @@ select {
   font-size: 15px;
   height: 40px;
   outline: none;
-  vertical-align: middle;
   background-color: #fff;
   border: 1px solid #d4d4d4;
   border-radius: 3px;
@@ -1304,7 +1303,6 @@ button:hover,
 [class^="kube-"], [class*=" kube-"], .close, .caret {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Kube' !important;
-  speak: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
