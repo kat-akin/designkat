@@ -40,7 +40,7 @@ button,  .buttonblue {
     margin: 0 2px; }
 
 
-    #media-grid {
+   /* #media-grid {
         
             @include grid-media-columns(2);
         
@@ -54,5 +54,5 @@ button,  .buttonblue {
             & > div:nth-child(5n) {
               height: 120px;
             }
-        }
+        } */
         
